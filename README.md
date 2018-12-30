@@ -10,3 +10,5 @@ Many of these features will need significant tweaking in "real" future projects,
  - DataPackage (and other open standards) manipulation
  - Database interaction
  - Auto-documentation
+ - Using pyinstaller to build binaries?
+ - Dask or other distributed processing
